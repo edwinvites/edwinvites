@@ -1,6 +1,8 @@
 ## 👋 ¡Hola! 
 
-Experiencia en la ampliación de funcionalidades de pagina web y aplicación móvil de herramienta estatal, en la adición de componentes frontend junto a equipo de 10 desarrolladores, con framework de C# y angular js. Estudios en dos bootcamp uno con profundización en backend. Enfoque de trabajo en grupo y de compromiso, facilidad de adaptación, autonomía e independencia y alto grado de análisis. 
+Profesional con experiencia en la ampliación de funcionalidades para páginas web y aplicaciones móviles en herramientas estatales. Sólida trayectoria en la adición de componentes frontend colaborando con un equipo ágil de 10 desarrolladores, utilizando C# y AngularJS. 
+
+Formación técnica complementaria mediante dos bootcamps, incluyendo una profundización especializada en backend. Destaco por mi enfoque de trabajo en grupo, alto compromiso, facilidad de adaptación, autonomía y un alto grado de análisis para la resolución de problemas.
 
 
 ## ⚙️ Tecnologias 
